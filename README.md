@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Bom Dia ☀️
 <!--
 **wesleycaua2/wesleycaua2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
